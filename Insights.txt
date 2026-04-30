@@ -1,0 +1,57 @@
+RETAIL SALES STRATEGY INSIGHTS – Q2 2024 ANALYSIS
+====================================================
+Dataset: 5,000 Transactions | Jan–Jun 2024 | 4 Regions | 6 Categories
+
+KEY INSIGHTS
+────────────────────────────────────────────────────────────────────────
+
+1. EAST REGION DOMINATES TOTAL REVENUE (~30% contribution)
+   The East region is the highest-performing geography, contributing nearly
+   30% of total company sales. Q3 strategy should double down here with
+   targeted campaigns and premium product placements to maximise ROI.
+
+2. ELECTRONICS IS THE SINGLE LARGEST REVENUE CATEGORY
+   Electronics (led by Samsung Galaxy S23 and Dell Laptops) generates the
+   highest sales value per transaction. High unit prices combined with steady
+   volume make this category a strategic priority — inventory should be fully
+   stocked ahead of Q3's festive season.
+
+3. ONLINE CHANNEL OUTPERFORMS OFFLINE (55%+ of sales)
+   Online transactions account for over 55% of total revenue, signalling a
+   clear digital-first preference among customers. Budget reallocation from
+   physical store marketing toward digital ads, SEO, and app UX improvements
+   will yield compounding returns in Q3 and beyond.
+
+4. ~40+ HIGH-VALUE LOYAL CUSTOMERS IDENTIFIED (10+ PURCHASES EACH)
+   A cohort of repeat customers made more than 10 purchases during the
+   6-month period. These VIP customers collectively represent a disproportionate
+   share of revenue. Launching a tiered loyalty rewards program or exclusive
+   early-access offers for this segment will increase retention and LTV.
+
+5. THE WEST REGION IS UNDERPERFORMING — NEEDS MARKETING SUPPORT
+   The West region contributes the lowest share of total sales (~20–22%).
+   A geo-targeted campaign combining localised offers, regional influencer
+   partnerships, and exclusive bundles could bridge the gap with East and
+   South in Q3 — representing untapped growth potential.
+
+6. MONTH-OVER-MONTH SALES SHOW A POSITIVE UPWARD TRAJECTORY
+   Sales grew consistently from January through June 2024 across most
+   categories and regions. Capitalising on this momentum with Q3 seasonal
+   offers (Independence Day, back-to-school, festive pre-season) can drive
+   a 15–20% incremental uplift over Q2 performance.
+
+7. GROCERIES & BEAUTY ARE HIGH-FREQUENCY, LOW-VALUE CATEGORIES
+   While Electronics drives revenue per transaction, Groceries and Beauty
+   drive transaction frequency. Cross-selling high-margin accessories and
+   combo packs (e.g., Grocery + Kitchen Appliance bundles) represents a
+   significant basket-size expansion opportunity that current data confirms
+   is underexplored.
+
+────────────────────────────────────────────────────────────────────────
+RECOMMENDED Q3 ACTIONS
+• Focus ad spend on East region + Online channel
+• Launch Electronics pre-festive sale in late July
+• Activate loyalty program for 10+ purchase customer segment
+• Run West region geo-targeted promotional campaign
+• Introduce bundle cross-sell between Groceries + Electronics
+────────────────────────────────────────────────────────────────────────
