@@ -1,2 +1,2 @@
-# BSC-exam
+# Bcs-exam
 business case study practical exam
